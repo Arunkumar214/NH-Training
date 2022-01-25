@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace console_application_for_a_power_b
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a, b;
+            int p = 1;
+            Console.WriteLine("enter a number");
+            a = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter b number");
+            b = Convert.ToInt32(Console.ReadLine());
+            for (int i = 1; i <= b; i++)
+            {
+                p = p * a;
+            }
+            Console.WriteLine("power=" + p);
+            Console.ReadLine();
+        }
+    }
+
+}
