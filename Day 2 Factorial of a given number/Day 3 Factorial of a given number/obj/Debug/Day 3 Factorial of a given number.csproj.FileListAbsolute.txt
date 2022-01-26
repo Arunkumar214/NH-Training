@@ -1,0 +1,7 @@
+D:\Day 3 C#\Day 3 Factorial of a given number\Day 3 Factorial of a given number\bin\Debug\Day 3 Factorial of a given number.exe.config
+D:\Day 3 C#\Day 3 Factorial of a given number\Day 3 Factorial of a given number\bin\Debug\Day 3 Factorial of a given number.exe
+D:\Day 3 C#\Day 3 Factorial of a given number\Day 3 Factorial of a given number\bin\Debug\Day 3 Factorial of a given number.pdb
+D:\Day 3 C#\Day 3 Factorial of a given number\Day 3 Factorial of a given number\obj\Debug\Day 3 Factorial of a given number.csproj.AssemblyReference.cache
+D:\Day 3 C#\Day 3 Factorial of a given number\Day 3 Factorial of a given number\obj\Debug\Day 3 Factorial of a given number.csproj.CoreCompileInputs.cache
+D:\Day 3 C#\Day 3 Factorial of a given number\Day 3 Factorial of a given number\obj\Debug\Day 3 Factorial of a given number.exe
+D:\Day 3 C#\Day 3 Factorial of a given number\Day 3 Factorial of a given number\obj\Debug\Day 3 Factorial of a given number.pdb

@@ -1,0 +1,6 @@
+D:\Day 3 C#\Day 2 Hello program using While\Day 2 Hello program using While\bin\Debug\Day 2 Hello program using While.exe.config
+D:\Day 3 C#\Day 2 Hello program using While\Day 2 Hello program using While\bin\Debug\Day 2 Hello program using While.exe
+D:\Day 3 C#\Day 2 Hello program using While\Day 2 Hello program using While\bin\Debug\Day 2 Hello program using While.pdb
+D:\Day 3 C#\Day 2 Hello program using While\Day 2 Hello program using While\obj\Debug\Day 2 Hello program using While.csproj.CoreCompileInputs.cache
+D:\Day 3 C#\Day 2 Hello program using While\Day 2 Hello program using While\obj\Debug\Day 2 Hello program using While.exe
+D:\Day 3 C#\Day 2 Hello program using While\Day 2 Hello program using While\obj\Debug\Day 2 Hello program using While.pdb

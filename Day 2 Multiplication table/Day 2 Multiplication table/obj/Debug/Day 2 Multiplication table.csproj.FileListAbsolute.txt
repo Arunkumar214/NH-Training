@@ -1,0 +1,6 @@
+D:\Day 3 C#\Day 2 Multiplication table\Day 2 Multiplication table\bin\Debug\Day 2 Multiplication table.exe.config
+D:\Day 3 C#\Day 2 Multiplication table\Day 2 Multiplication table\bin\Debug\Day 2 Multiplication table.exe
+D:\Day 3 C#\Day 2 Multiplication table\Day 2 Multiplication table\bin\Debug\Day 2 Multiplication table.pdb
+D:\Day 3 C#\Day 2 Multiplication table\Day 2 Multiplication table\obj\Debug\Day 2 Multiplication table.csproj.CoreCompileInputs.cache
+D:\Day 3 C#\Day 2 Multiplication table\Day 2 Multiplication table\obj\Debug\Day 2 Multiplication table.exe
+D:\Day 3 C#\Day 2 Multiplication table\Day 2 Multiplication table\obj\Debug\Day 2 Multiplication table.pdb

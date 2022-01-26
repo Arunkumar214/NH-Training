@@ -1,0 +1,7 @@
+D:\Day 3 C#\Day 3 Sum of n natural numbers\Day 3 Sum of n natural numbers\bin\Debug\Day 3 Sum of n natural numbers.exe.config
+D:\Day 3 C#\Day 3 Sum of n natural numbers\Day 3 Sum of n natural numbers\bin\Debug\Day 3 Sum of n natural numbers.exe
+D:\Day 3 C#\Day 3 Sum of n natural numbers\Day 3 Sum of n natural numbers\bin\Debug\Day 3 Sum of n natural numbers.pdb
+D:\Day 3 C#\Day 3 Sum of n natural numbers\Day 3 Sum of n natural numbers\obj\Debug\Day 3 Sum of n natural numbers.csproj.AssemblyReference.cache
+D:\Day 3 C#\Day 3 Sum of n natural numbers\Day 3 Sum of n natural numbers\obj\Debug\Day 3 Sum of n natural numbers.csproj.CoreCompileInputs.cache
+D:\Day 3 C#\Day 3 Sum of n natural numbers\Day 3 Sum of n natural numbers\obj\Debug\Day 3 Sum of n natural numbers.exe
+D:\Day 3 C#\Day 3 Sum of n natural numbers\Day 3 Sum of n natural numbers\obj\Debug\Day 3 Sum of n natural numbers.pdb
