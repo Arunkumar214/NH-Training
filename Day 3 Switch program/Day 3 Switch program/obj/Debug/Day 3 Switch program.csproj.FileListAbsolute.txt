@@ -1,0 +1,7 @@
+D:\Day 3 Total assignments (26-1-2022)\Day 3 Switch program\Day 3 Switch program\bin\Debug\Day 3 Switch program.exe.config
+D:\Day 3 Total assignments (26-1-2022)\Day 3 Switch program\Day 3 Switch program\bin\Debug\Day 3 Switch program.exe
+D:\Day 3 Total assignments (26-1-2022)\Day 3 Switch program\Day 3 Switch program\bin\Debug\Day 3 Switch program.pdb
+D:\Day 3 Total assignments (26-1-2022)\Day 3 Switch program\Day 3 Switch program\obj\Debug\Day 3 Switch program.csproj.AssemblyReference.cache
+D:\Day 3 Total assignments (26-1-2022)\Day 3 Switch program\Day 3 Switch program\obj\Debug\Day 3 Switch program.csproj.CoreCompileInputs.cache
+D:\Day 3 Total assignments (26-1-2022)\Day 3 Switch program\Day 3 Switch program\obj\Debug\Day 3 Switch program.exe
+D:\Day 3 Total assignments (26-1-2022)\Day 3 Switch program\Day 3 Switch program\obj\Debug\Day 3 Switch program.pdb

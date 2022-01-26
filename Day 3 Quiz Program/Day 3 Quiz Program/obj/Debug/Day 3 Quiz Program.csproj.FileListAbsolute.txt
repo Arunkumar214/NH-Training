@@ -1,0 +1,7 @@
+D:\Day 3 Total assignments (26-1-2022)\Day 3 Quiz Program\Day 3 Quiz Program\bin\Debug\Day 3 Quiz Program.exe.config
+D:\Day 3 Total assignments (26-1-2022)\Day 3 Quiz Program\Day 3 Quiz Program\bin\Debug\Day 3 Quiz Program.exe
+D:\Day 3 Total assignments (26-1-2022)\Day 3 Quiz Program\Day 3 Quiz Program\bin\Debug\Day 3 Quiz Program.pdb
+D:\Day 3 Total assignments (26-1-2022)\Day 3 Quiz Program\Day 3 Quiz Program\obj\Debug\Day 3 Quiz Program.csproj.AssemblyReference.cache
+D:\Day 3 Total assignments (26-1-2022)\Day 3 Quiz Program\Day 3 Quiz Program\obj\Debug\Day 3 Quiz Program.csproj.CoreCompileInputs.cache
+D:\Day 3 Total assignments (26-1-2022)\Day 3 Quiz Program\Day 3 Quiz Program\obj\Debug\Day 3 Quiz Program.exe
+D:\Day 3 Total assignments (26-1-2022)\Day 3 Quiz Program\Day 3 Quiz Program\obj\Debug\Day 3 Quiz Program.pdb
