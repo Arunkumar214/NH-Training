@@ -19,7 +19,7 @@ namespace Day_3_Factorial_of_a_given_number
 
             }
             Console.WriteLine(product);
-            // Another Model
+            
    
             Console.ReadLine();
 

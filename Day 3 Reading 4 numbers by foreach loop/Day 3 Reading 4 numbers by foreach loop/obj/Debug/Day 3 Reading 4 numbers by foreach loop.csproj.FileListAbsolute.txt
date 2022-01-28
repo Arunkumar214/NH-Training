@@ -1,0 +1,7 @@
+D:\C# Assignments\Day 3 Reading 4 numbers by foreach loop\Day 3 Reading 4 numbers by foreach loop\bin\Debug\Day 3 Reading 4 numbers by foreach loop.exe.config
+D:\C# Assignments\Day 3 Reading 4 numbers by foreach loop\Day 3 Reading 4 numbers by foreach loop\bin\Debug\Day 3 Reading 4 numbers by foreach loop.exe
+D:\C# Assignments\Day 3 Reading 4 numbers by foreach loop\Day 3 Reading 4 numbers by foreach loop\bin\Debug\Day 3 Reading 4 numbers by foreach loop.pdb
+D:\C# Assignments\Day 3 Reading 4 numbers by foreach loop\Day 3 Reading 4 numbers by foreach loop\obj\Debug\Day 3 Reading 4 numbers by foreach loop.csproj.AssemblyReference.cache
+D:\C# Assignments\Day 3 Reading 4 numbers by foreach loop\Day 3 Reading 4 numbers by foreach loop\obj\Debug\Day 3 Reading 4 numbers by foreach loop.csproj.CoreCompileInputs.cache
+D:\C# Assignments\Day 3 Reading 4 numbers by foreach loop\Day 3 Reading 4 numbers by foreach loop\obj\Debug\Day 3 Reading 4 numbers by foreach loop.exe
+D:\C# Assignments\Day 3 Reading 4 numbers by foreach loop\Day 3 Reading 4 numbers by foreach loop\obj\Debug\Day 3 Reading 4 numbers by foreach loop.pdb

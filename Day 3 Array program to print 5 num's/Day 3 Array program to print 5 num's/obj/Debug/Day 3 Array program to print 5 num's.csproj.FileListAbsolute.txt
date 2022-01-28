@@ -1,0 +1,7 @@
+D:\C# Assignments\Day 3 Array program to print 5 num's\Day 3 Array program to print 5 num's\bin\Debug\Day 3 Array program to print 5 num's.exe.config
+D:\C# Assignments\Day 3 Array program to print 5 num's\Day 3 Array program to print 5 num's\bin\Debug\Day 3 Array program to print 5 num's.exe
+D:\C# Assignments\Day 3 Array program to print 5 num's\Day 3 Array program to print 5 num's\bin\Debug\Day 3 Array program to print 5 num's.pdb
+D:\C# Assignments\Day 3 Array program to print 5 num's\Day 3 Array program to print 5 num's\obj\Debug\Day 3 Array program to print 5 num's.csproj.AssemblyReference.cache
+D:\C# Assignments\Day 3 Array program to print 5 num's\Day 3 Array program to print 5 num's\obj\Debug\Day 3 Array program to print 5 num's.csproj.CoreCompileInputs.cache
+D:\C# Assignments\Day 3 Array program to print 5 num's\Day 3 Array program to print 5 num's\obj\Debug\Day 3 Array program to print 5 num's.exe
+D:\C# Assignments\Day 3 Array program to print 5 num's\Day 3 Array program to print 5 num's\obj\Debug\Day 3 Array program to print 5 num's.pdb
