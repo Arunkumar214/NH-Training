@@ -4,12 +4,37 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day_5_Creating_classes_of_Amazon__Apollo__and_PS
+namespace Amazon
+
 {
-    class Program
+    class Customers
     {
-        static void Main(string[] args)
+        private int ID;
+        private int sal;
+        public string designation;
+        public string department;
         {
+        //ToDo
         }
+        public void print ID()
+
+
     }
+    class Products
+    {
+
+    }
+    class seller
+    {
+
+    }
+    class Employees
+    {
+
+    }
+    class Orders
+    {
+
+    }
+   
 }
