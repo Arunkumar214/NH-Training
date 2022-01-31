@@ -1,0 +1,7 @@
+D:\C# Assignments\Day 6 List t , read and find sum using 3 loops\Day 6 List t , read and find sum using 3 loops\bin\Debug\Day 6 List t , read and find sum using 3 loops.exe.config
+D:\C# Assignments\Day 6 List t , read and find sum using 3 loops\Day 6 List t , read and find sum using 3 loops\bin\Debug\Day 6 List t , read and find sum using 3 loops.exe
+D:\C# Assignments\Day 6 List t , read and find sum using 3 loops\Day 6 List t , read and find sum using 3 loops\bin\Debug\Day 6 List t , read and find sum using 3 loops.pdb
+D:\C# Assignments\Day 6 List t , read and find sum using 3 loops\Day 6 List t , read and find sum using 3 loops\obj\Debug\Day 6 List t , read and find sum using 3 loops.csproj.CoreCompileInputs.cache
+D:\C# Assignments\Day 6 List t , read and find sum using 3 loops\Day 6 List t , read and find sum using 3 loops\obj\Debug\Day 6 List t , read and find sum using 3 loops.exe
+D:\C# Assignments\Day 6 List t , read and find sum using 3 loops\Day 6 List t , read and find sum using 3 loops\obj\Debug\Day 6 List t , read and find sum using 3 loops.pdb
+D:\C# Assignments\Day 6 List t , read and find sum using 3 loops\Day 6 List t , read and find sum using 3 loops\obj\Debug\Day 6 List t , read and find sum using 3 loops.csproj.AssemblyReference.cache

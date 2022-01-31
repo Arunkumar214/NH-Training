@@ -1,0 +1,6 @@
+D:\C# Assignments\Day 6 declaring list , assign some values and find sum\Day 6 declaring list , assign some values and find sum\obj\Debug\Day 6 declaring list , assign some values and find sum.csproj.CoreCompileInputs.cache
+D:\C# Assignments\Day 6 declaring list , assign some values and find sum\Day 6 declaring list , assign some values and find sum\bin\Debug\Day 6 declaring list , assign some values and find sum.exe.config
+D:\C# Assignments\Day 6 declaring list , assign some values and find sum\Day 6 declaring list , assign some values and find sum\bin\Debug\Day 6 declaring list , assign some values and find sum.exe
+D:\C# Assignments\Day 6 declaring list , assign some values and find sum\Day 6 declaring list , assign some values and find sum\bin\Debug\Day 6 declaring list , assign some values and find sum.pdb
+D:\C# Assignments\Day 6 declaring list , assign some values and find sum\Day 6 declaring list , assign some values and find sum\obj\Debug\Day 6 declaring list , assign some values and find sum.exe
+D:\C# Assignments\Day 6 declaring list , assign some values and find sum\Day 6 declaring list , assign some values and find sum\obj\Debug\Day 6 declaring list , assign some values and find sum.pdb

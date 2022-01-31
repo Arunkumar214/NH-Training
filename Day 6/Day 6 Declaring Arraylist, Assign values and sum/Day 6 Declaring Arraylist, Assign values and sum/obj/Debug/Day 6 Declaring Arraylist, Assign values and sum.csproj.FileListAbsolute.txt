@@ -1,0 +1,7 @@
+D:\C# Assignments\Day 6 Declaring Arraylist, Assign values and sum\Day 6 Declaring Arraylist, Assign values and sum\obj\Debug\Day 6 Declaring Arraylist, Assign values and sum.csproj.AssemblyReference.cache
+D:\C# Assignments\Day 6 Declaring Arraylist, Assign values and sum\Day 6 Declaring Arraylist, Assign values and sum\obj\Debug\Day 6 Declaring Arraylist, Assign values and sum.csproj.CoreCompileInputs.cache
+D:\C# Assignments\Day 6 Declaring Arraylist, Assign values and sum\Day 6 Declaring Arraylist, Assign values and sum\bin\Debug\Day 6 Declaring Arraylist, Assign values and sum.exe.config
+D:\C# Assignments\Day 6 Declaring Arraylist, Assign values and sum\Day 6 Declaring Arraylist, Assign values and sum\bin\Debug\Day 6 Declaring Arraylist, Assign values and sum.exe
+D:\C# Assignments\Day 6 Declaring Arraylist, Assign values and sum\Day 6 Declaring Arraylist, Assign values and sum\bin\Debug\Day 6 Declaring Arraylist, Assign values and sum.pdb
+D:\C# Assignments\Day 6 Declaring Arraylist, Assign values and sum\Day 6 Declaring Arraylist, Assign values and sum\obj\Debug\Day 6 Declaring Arraylist, Assign values and sum.exe
+D:\C# Assignments\Day 6 Declaring Arraylist, Assign values and sum\Day 6 Declaring Arraylist, Assign values and sum\obj\Debug\Day 6 Declaring Arraylist, Assign values and sum.pdb
