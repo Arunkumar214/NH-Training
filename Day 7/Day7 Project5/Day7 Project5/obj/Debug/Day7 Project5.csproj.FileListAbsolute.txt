@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\Day7 Project5\Day7 Project5\obj\Debug\Day7 Project5.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Day7 Project5\Day7 Project5\bin\Debug\Day7 Project5.exe.config
+C:\Users\admin\Desktop\Day7 Project5\Day7 Project5\bin\Debug\Day7 Project5.exe
+C:\Users\admin\Desktop\Day7 Project5\Day7 Project5\bin\Debug\Day7 Project5.pdb
+C:\Users\admin\Desktop\Day7 Project5\Day7 Project5\obj\Debug\Day7 Project5.exe
+C:\Users\admin\Desktop\Day7 Project5\Day7 Project5\obj\Debug\Day7 Project5.pdb
