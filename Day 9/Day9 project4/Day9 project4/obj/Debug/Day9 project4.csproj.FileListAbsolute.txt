@@ -1,0 +1,7 @@
+D:\C# Assignments\Day 9\Day9 project4\Day9 project4\obj\Debug\Day9 project4.csproj.AssemblyReference.cache
+D:\C# Assignments\Day 9\Day9 project4\Day9 project4\obj\Debug\Day9 project4.csproj.CoreCompileInputs.cache
+D:\C# Assignments\Day 9\Day9 project4\Day9 project4\bin\Debug\Day9 project4.exe.config
+D:\C# Assignments\Day 9\Day9 project4\Day9 project4\bin\Debug\Day9 project4.exe
+D:\C# Assignments\Day 9\Day9 project4\Day9 project4\bin\Debug\Day9 project4.pdb
+D:\C# Assignments\Day 9\Day9 project4\Day9 project4\obj\Debug\Day9 project4.exe
+D:\C# Assignments\Day 9\Day9 project4\Day9 project4\obj\Debug\Day9 project4.pdb
