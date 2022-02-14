@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\Arun_Library\Consoleapp\bin\Debug\Consoleapp.exe.config
+C:\Users\admin\Desktop\Arun_Library\Consoleapp\bin\Debug\Consoleapp.exe
+C:\Users\admin\Desktop\Arun_Library\Consoleapp\bin\Debug\Consoleapp.pdb
+C:\Users\admin\Desktop\Arun_Library\Consoleapp\bin\Debug\Arun_Library.dll
+C:\Users\admin\Desktop\Arun_Library\Consoleapp\bin\Debug\Arun_Library.pdb
+C:\Users\admin\Desktop\Arun_Library\Consoleapp\obj\Debug\Consoleapp.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Arun_Library\Consoleapp\obj\Debug\Consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Arun_Library\Consoleapp\obj\Debug\Consoleapp.csproj.CopyComplete
+C:\Users\admin\Desktop\Arun_Library\Consoleapp\obj\Debug\Consoleapp.exe
+C:\Users\admin\Desktop\Arun_Library\Consoleapp\obj\Debug\Consoleapp.pdb

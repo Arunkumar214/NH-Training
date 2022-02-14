@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Day 16 project 5\Day 16 project 5\bin\Debug\Day 16 project 5.exe.config
+C:\Users\admin\Desktop\Day 16 project 5\Day 16 project 5\bin\Debug\Day 16 project 5.exe
+C:\Users\admin\Desktop\Day 16 project 5\Day 16 project 5\bin\Debug\Day 16 project 5.pdb
+C:\Users\admin\Desktop\Day 16 project 5\Day 16 project 5\obj\Debug\Day 16 project 5.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Day 16 project 5\Day 16 project 5\obj\Debug\Day 16 project 5.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Day 16 project 5\Day 16 project 5\obj\Debug\Day 16 project 5.exe
+C:\Users\admin\Desktop\Day 16 project 5\Day 16 project 5\obj\Debug\Day 16 project 5.pdb

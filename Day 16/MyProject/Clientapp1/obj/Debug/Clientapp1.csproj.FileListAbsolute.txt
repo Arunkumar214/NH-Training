@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\MyProject\Clientapp1\bin\Debug\Clientapp1.exe.config
+C:\Users\admin\Desktop\MyProject\Clientapp1\bin\Debug\Clientapp1.exe
+C:\Users\admin\Desktop\MyProject\Clientapp1\bin\Debug\Clientapp1.pdb
+C:\Users\admin\Desktop\MyProject\Clientapp1\bin\Debug\ArunLibrary1.dll
+C:\Users\admin\Desktop\MyProject\Clientapp1\bin\Debug\PublicLibrary1.dll
+C:\Users\admin\Desktop\MyProject\Clientapp1\bin\Debug\ArunLibrary1.pdb
+C:\Users\admin\Desktop\MyProject\Clientapp1\bin\Debug\PublicLibrary1.pdb
+C:\Users\admin\Desktop\MyProject\Clientapp1\obj\Debug\Clientapp1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\MyProject\Clientapp1\obj\Debug\Clientapp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\MyProject\Clientapp1\obj\Debug\Clientapp1.csproj.CopyComplete
+C:\Users\admin\Desktop\MyProject\Clientapp1\obj\Debug\Clientapp1.exe
+C:\Users\admin\Desktop\MyProject\Clientapp1\obj\Debug\Clientapp1.pdb
