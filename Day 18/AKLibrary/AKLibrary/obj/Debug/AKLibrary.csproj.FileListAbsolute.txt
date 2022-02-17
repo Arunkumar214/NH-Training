@@ -1,0 +1,2 @@
+C:\Users\admin\Desktop\AKLibrary\AKLibrary\obj\Debug\AKLibrary.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\AKLibrary\AKLibrary\obj\Debug\AKLibrary.csproj.CoreCompileInputs.cache

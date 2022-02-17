@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\AKLibrary\ArunKLibrary\bin\Debug\ArunKLibrary.dll
+C:\Users\admin\Desktop\AKLibrary\ArunKLibrary\bin\Debug\ArunKLibrary.pdb
+C:\Users\admin\Desktop\AKLibrary\ArunKLibrary\obj\Debug\ArunKLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AKLibrary\ArunKLibrary\obj\Debug\ArunKLibrary.dll
+C:\Users\admin\Desktop\AKLibrary\ArunKLibrary\obj\Debug\ArunKLibrary.pdb
+C:\Users\admin\Desktop\AKLibrary\ArunKLibrary\obj\Debug\ArunKLibrary.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\AKLibrary\Consoleappp\bin\Debug\Consoleappp.exe.config
+C:\Users\admin\Desktop\AKLibrary\Consoleappp\bin\Debug\Consoleappp.exe
+C:\Users\admin\Desktop\AKLibrary\Consoleappp\bin\Debug\Consoleappp.pdb
+C:\Users\admin\Desktop\AKLibrary\Consoleappp\bin\Debug\ArunKLibrary.dll
+C:\Users\admin\Desktop\AKLibrary\Consoleappp\bin\Debug\ArunKLibrary.pdb
+C:\Users\admin\Desktop\AKLibrary\Consoleappp\obj\Debug\Consoleappp.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\AKLibrary\Consoleappp\obj\Debug\Consoleappp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AKLibrary\Consoleappp\obj\Debug\Consoleappp.csproj.CopyComplete
+C:\Users\admin\Desktop\AKLibrary\Consoleappp\obj\Debug\Consoleappp.exe
+C:\Users\admin\Desktop\AKLibrary\Consoleappp\obj\Debug\Consoleappp.pdb

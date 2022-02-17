@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\AKLibrary\ArunKLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\admin\Desktop\AKLibrary\ArunKLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\admin\Desktop\AKLibrary\ArunKLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\admin\Desktop\AKLibrary\ArunKLibraryTests\bin\Debug\ArunKLibraryTests.dll
+C:\Users\admin\Desktop\AKLibrary\ArunKLibraryTests\bin\Debug\ArunKLibraryTests.pdb
+C:\Users\admin\Desktop\AKLibrary\ArunKLibraryTests\bin\Debug\ArunKLibrary.dll
+C:\Users\admin\Desktop\AKLibrary\ArunKLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\admin\Desktop\AKLibrary\ArunKLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\admin\Desktop\AKLibrary\ArunKLibraryTests\bin\Debug\ArunKLibrary.pdb
+C:\Users\admin\Desktop\AKLibrary\ArunKLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\admin\Desktop\AKLibrary\ArunKLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\admin\Desktop\AKLibrary\ArunKLibraryTests\obj\Debug\ArunKLibraryTests.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\AKLibrary\ArunKLibraryTests\obj\Debug\ArunKLibraryTests.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\AKLibrary\ArunKLibraryTests\obj\Debug\ArunKLibraryTests.csproj.CopyComplete
+C:\Users\admin\Desktop\AKLibrary\ArunKLibraryTests\obj\Debug\ArunKLibraryTests.dll
+C:\Users\admin\Desktop\AKLibrary\ArunKLibraryTests\obj\Debug\ArunKLibraryTests.pdb
