@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\CallByReference\CallByReference\bin\Debug\net5.0\CallByReference.exe
+C:\Users\admin\Desktop\CallByReference\CallByReference\bin\Debug\net5.0\CallByReference.deps.json
+C:\Users\admin\Desktop\CallByReference\CallByReference\bin\Debug\net5.0\CallByReference.runtimeconfig.json
+C:\Users\admin\Desktop\CallByReference\CallByReference\bin\Debug\net5.0\CallByReference.runtimeconfig.dev.json
+C:\Users\admin\Desktop\CallByReference\CallByReference\bin\Debug\net5.0\CallByReference.dll
+C:\Users\admin\Desktop\CallByReference\CallByReference\bin\Debug\net5.0\ref\CallByReference.dll
+C:\Users\admin\Desktop\CallByReference\CallByReference\bin\Debug\net5.0\CallByReference.pdb
+C:\Users\admin\Desktop\CallByReference\CallByReference\obj\Debug\net5.0\CallByReference.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\CallByReference\CallByReference\obj\Debug\net5.0\CallByReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\CallByReference\CallByReference\obj\Debug\net5.0\CallByReference.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\CallByReference\CallByReference\obj\Debug\net5.0\CallByReference.AssemblyInfo.cs
+C:\Users\admin\Desktop\CallByReference\CallByReference\obj\Debug\net5.0\CallByReference.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CallByReference\CallByReference\obj\Debug\net5.0\CallByReference.dll
+C:\Users\admin\Desktop\CallByReference\CallByReference\obj\Debug\net5.0\ref\CallByReference.dll
+C:\Users\admin\Desktop\CallByReference\CallByReference\obj\Debug\net5.0\CallByReference.pdb
+C:\Users\admin\Desktop\CallByReference\CallByReference\obj\Debug\net5.0\CallByReference.genruntimeconfig.cache
