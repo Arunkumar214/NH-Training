@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Desktop1\Desktop1\bin\Debug\Desktop1.exe.config
+C:\Users\admin\Desktop\Desktop1\Desktop1\bin\Debug\Desktop1.exe
+C:\Users\admin\Desktop\Desktop1\Desktop1\bin\Debug\Desktop1.pdb
+C:\Users\admin\Desktop\Desktop1\Desktop1\obj\Debug\Desktop1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Desktop1\Desktop1\obj\Debug\Desktop1.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Desktop1\Desktop1\obj\Debug\Desktop1.Form1.resources
+C:\Users\admin\Desktop\Desktop1\Desktop1\obj\Debug\Desktop1.Properties.Resources.resources
+C:\Users\admin\Desktop\Desktop1\Desktop1\obj\Debug\Desktop1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Desktop1\Desktop1\obj\Debug\Desktop1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Desktop1\Desktop1\obj\Debug\Desktop1.exe
+C:\Users\admin\Desktop\Desktop1\Desktop1\obj\Debug\Desktop1.pdb

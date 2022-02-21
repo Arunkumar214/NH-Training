@@ -1,0 +1,8 @@
+C:\Users\admin\Desktop\Consolee1\Consolee1\bin\Debug\Consolee1.exe.config
+C:\Users\admin\Desktop\Consolee1\Consolee1\bin\Debug\Consolee1.exe
+C:\Users\admin\Desktop\Consolee1\Consolee1\bin\Debug\Consolee1.pdb
+C:\Users\admin\Desktop\Consolee1\Consolee1\obj\Debug\Consolee1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Consolee1\Consolee1\obj\Debug\Consolee1.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Consolee1\Consolee1\obj\Debug\Consolee1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Consolee1\Consolee1\obj\Debug\Consolee1.exe
+C:\Users\admin\Desktop\Consolee1\Consolee1\obj\Debug\Consolee1.pdb
